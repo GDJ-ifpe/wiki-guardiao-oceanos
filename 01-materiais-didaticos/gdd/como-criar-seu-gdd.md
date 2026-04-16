@@ -205,7 +205,10 @@ Não é esperado que um jogo pequeno implemente tudo isso de uma vez. Mas pensar
 
 _____
 # Referências
-[COMO CRIAR UM GDD (GAME DESIGN DOCUMENT) COM MODELO PARA DOWNLOAD](https://www.youtube.com/watch?v=aqXwal3tRkg)
+[COMO CRIAR UM GDD (GAME DESIGN DOCUMENT) COM MODELO PARA DOWNLOAD](https://www.youtube.com/watch?v=aqXwal3tRkg) 
+
 [8 Passos para Fazer um GDD (GAME DESIGN DOCUMENT) ](https://www.youtube.com/watch?v=JdMlfvSKaVg)
+
 [4 TIPOS DE GDD (GAME DESIGN DOCUMENT)](https://www.youtube.com/watch?v=8NOJfc1yGQs&t=28s)
+
 [Game Design Documents - a Minimalist Approach INGLES](https://www.youtube.com/watch?v=uBxYGFRi-S4&t=1060s)
