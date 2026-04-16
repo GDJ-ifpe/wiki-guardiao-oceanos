@@ -16,7 +16,7 @@ Alguns tópicos que vão ser abordados nesse material são:
   - [Acessibilidade](#acessibilidade)
 - [Referências](#referências)
 
-![Imagem GDD](assets/image.png)
+![Imagem GDD](../../assets/image.png)
 
 --------
 # Conceito Geral
