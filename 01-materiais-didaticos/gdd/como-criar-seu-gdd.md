@@ -16,6 +16,8 @@ Alguns tópicos que vão ser abordados nesse material são:
   - [Acessibilidade](#acessibilidade)
 - [Referências](#referências)
 
+![Imagem GDD](assets/image.png)
+
 --------
 # Conceito Geral
 Você deve se perguntar "Como posso começar a criar meu jogo?", a maioria pensa que começamos já desenvolvendo código ou criando as artes. Não que seja errado começar assim, apenas não é ideal, visto o quão complexo é criar um jogo do começo ao fim. Então como começar? pelo documento de GDD (Game Design Document). 
@@ -202,6 +204,13 @@ Alguns pontos importantes para documentar no GDD:
 - **Audio**: o jogo depende de áudio para passar informações importantes? Se sim, existe alguma alternativa visual para jogadores surdos ou com deficiência auditiva?
 
 Não é esperado que um jogo pequeno implemente tudo isso de uma vez. Mas pensar nisso desde o GDD evita que você precise refazer sistemas inteiros mais tarde só para adicionar uma legenda ou um modo daltônico.
+
+# Crie seu GDD
+Nós preparamos um modelo base para você começar a documentar as ideias da sua equipe sem precisar criar tudo do zero. 
+
+**[Clique aqui para acessar o Template de GDD](template.md)**
+
+* Lembrando que o template é em .md, recomendamos fortemente usar o software **[Obsidian](https://obsidian.md/)** ou o **[Notion](https://www.notion.com/)**. Você pode adptar para usar ferramentas como **[Miro](https://miro.com/pt/)** ou o **[Excalidraw](https://excalidraw.com/)** para um ambiente interativo. 
 
 _____
 # Referências
