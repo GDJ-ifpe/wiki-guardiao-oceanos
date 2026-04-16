@@ -1,5 +1,5 @@
 Alguns tópicos que vão ser abordados nesse material são:
-**Índice de Conteúdos:**
+
 - [Conceito Geral](#conceito-geral)
 - [Estrutura de um GDD](#estrutura-de-um-gdd)
 - [Ideia](#ideia)
