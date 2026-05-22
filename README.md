@@ -22,7 +22,7 @@ A base teórica e prática para o desenvolvimento de jogos.
   * `como-configurar.md`: Guia de configuração para mesas digitalizadoras e setup inicial da interface.  _Em Andamento_
 * **engines-de-jogos/**
   * `intro-gamedev.md`: Primeiros passos no desenvolvimento de jogos e lógica estrutural. _Em Andamento_
-* **engenharia-de-som/**
+* **sound-designer/**
   * `intro-engsom.md`: Primeiros passos no desenvolvimento de sons. _Em Andamento_
   ..
 
